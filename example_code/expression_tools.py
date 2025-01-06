@@ -1,5 +1,6 @@
 from functools import singledispatch
-import expressions
+import expressions.expressions as expressions
+
 
 
 @singledispatch
